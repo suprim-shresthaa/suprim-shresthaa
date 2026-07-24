@@ -4,6 +4,10 @@
 MERN Stack Developer building modern, responsive, and practical web applications 🚀
 </h3>
 
+<p align="center">
+  <img src="./photo.jpeg" alt="Suprim Shrestha" width="180"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -34,7 +38,7 @@ MERN Stack Developer building modern, responsive, and practical web applications
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,figma"/>
 </p>
 
 <p>
@@ -46,9 +50,9 @@ MERN Stack Developer building modern, responsive, and practical web applications
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=suprim-shresthaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suprim-shresthaa&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprim-shresthaa&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprim-shresthaa&layout=compact&theme=tokyonight"/>
 </p>
